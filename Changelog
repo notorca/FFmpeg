@@ -375,6 +375,11 @@ version 7.0:
 - HDR10 metadata passthrough when encoding with libx264, libx265, and libsvtav1
 
 
+version <next>:
+- WHEP demuxer
+- WHIP muxer
+
+
 version 6.1:
 - libaribcaption decoder
 - Playdate video decoder and demuxer
