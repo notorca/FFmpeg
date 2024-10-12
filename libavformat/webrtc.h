@@ -30,7 +30,7 @@
 #include "url.h"
 #include "rtc/rtc.h"
 
-#define RTP_MAX_PACKET_SIZE 1450
+#define RTP_MAX_PACKET_SIZE 1280
 
 typedef struct WebRTCTrack {
     AVFormatContext *avctx;
